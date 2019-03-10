@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Senseye/fire-eyes/precache-manifest.b9147aeea3eb28d54aa9ef9a6952c52a.js"
+  "/Senseye/fire-eyes/precache-manifest.7514ac4631308987a2325365a1551f0b.js"
 );
 
 workbox.clientsClaim();

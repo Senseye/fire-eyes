@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Senseye/fire-eyes/static/css/main.9c0e2325.chunk.css"
   },
   {
-    "revision": "5216fb2f823dc6318ab334962854bd14",
+    "revision": "8f4c37ebfbc89f444362027b38f4663a",
     "url": "/Senseye/fire-eyes/index.html"
   }
 ];
