@@ -1,13 +1,13 @@
 {
-  "main.css": "/Senseye/fire-eyes/static/css/main.9c0e2325.chunk.css",
-  "main.js": "/Senseye/fire-eyes/static/js/main.fd0a13fb.chunk.js",
-  "main.js.map": "/Senseye/fire-eyes/static/js/main.fd0a13fb.chunk.js.map",
-  "static/js/1.4e12b0f7.chunk.js": "/Senseye/fire-eyes/static/js/1.4e12b0f7.chunk.js",
-  "static/js/1.4e12b0f7.chunk.js.map": "/Senseye/fire-eyes/static/js/1.4e12b0f7.chunk.js.map",
-  "runtime~main.js": "/Senseye/fire-eyes/static/js/runtime~main.fef67f53.js",
-  "runtime~main.js.map": "/Senseye/fire-eyes/static/js/runtime~main.fef67f53.js.map",
-  "static/css/main.9c0e2325.chunk.css.map": "/Senseye/fire-eyes/static/css/main.9c0e2325.chunk.css.map",
-  "index.html": "/Senseye/fire-eyes/index.html",
-  "precache-manifest.7514ac4631308987a2325365a1551f0b.js": "/Senseye/fire-eyes/precache-manifest.7514ac4631308987a2325365a1551f0b.js",
-  "service-worker.js": "/Senseye/fire-eyes/service-worker.js"
+  "main.css": "/fire-eyes/static/css/main.9c0e2325.chunk.css",
+  "main.js": "/fire-eyes/static/js/main.90564f87.chunk.js",
+  "main.js.map": "/fire-eyes/static/js/main.90564f87.chunk.js.map",
+  "static/js/1.81cdc6bc.chunk.js": "/fire-eyes/static/js/1.81cdc6bc.chunk.js",
+  "static/js/1.81cdc6bc.chunk.js.map": "/fire-eyes/static/js/1.81cdc6bc.chunk.js.map",
+  "runtime~main.js": "/fire-eyes/static/js/runtime~main.2876728b.js",
+  "runtime~main.js.map": "/fire-eyes/static/js/runtime~main.2876728b.js.map",
+  "static/css/main.9c0e2325.chunk.css.map": "/fire-eyes/static/css/main.9c0e2325.chunk.css.map",
+  "index.html": "/fire-eyes/index.html",
+  "precache-manifest.7aaebc32998dfd3fb9886f35af9ef535.js": "/fire-eyes/precache-manifest.7aaebc32998dfd3fb9886f35af9ef535.js",
+  "service-worker.js": "/fire-eyes/service-worker.js"
 }

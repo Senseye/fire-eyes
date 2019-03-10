@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Senseye/fire-eyes/precache-manifest.7514ac4631308987a2325365a1551f0b.js"
+  "/fire-eyes/precache-manifest.7aaebc32998dfd3fb9886f35af9ef535.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Senseye/fire-eyes/index.html", {
+workbox.routing.registerNavigationRoute("/fire-eyes/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
